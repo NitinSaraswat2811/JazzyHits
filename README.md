@@ -1,4 +1,4 @@
-Spotify Clone - JazzyHits(my-spotify-clone):
+JazzyHits...your own music player:
 A music streaming app inspired by Spotify, built using HTML, CSS, and JavaScript. This project showcases my front-end development skills with a focus on creating a responsive, user-friendly interface and interactive features.
 
 Key Features:
